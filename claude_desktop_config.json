@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "uber_eats": {
+      "command": "python",
+      "args": ["server.py"],
+      "cwd": "/Users/a753/git_macbook/uber-eats-mcp-server",
+      "env": {
+        "ANTHROPIC_API_KEY": "${ANTHROPIC_API_KEY}",
+        "OPENAI_API_KEY": "${OPENAI_API_KEY}"
+      }
+    }
+  }
+} 

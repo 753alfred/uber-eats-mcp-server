@@ -1,0 +1,66 @@
+{
+  "darkMode": "light",
+  "scale": 0,
+  "locale": "ko-KR",
+  "quickWindowPosition": {
+    "absolutePointInWorkspace": {
+      "x": 561,
+      "y": 340
+    },
+    "monitor": {
+      "accelerometerSupport": "unknown",
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1728,
+        "height": 1117
+      },
+      "colorDepth": 30,
+      "colorSpace": "{primaries:BT709, transfer:SRGB_HDR, matrix:RGB, range:FULL}",
+      "depthPerComponent": 10,
+      "detected": true,
+      "displayFrequency": 120.00000762939453,
+      "id": 1,
+      "internal": true,
+      "label": "내장 Retina 디스플레이",
+      "maximumCursorSize": {
+        "width": 0,
+        "height": 0
+      },
+      "monochrome": false,
+      "nativeOrigin": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "scaleFactor": 2,
+      "size": {
+        "width": 1728,
+        "height": 1117
+      },
+      "workArea": {
+        "x": 0,
+        "y": 32,
+        "width": 1728,
+        "height": 1085
+      },
+      "workAreaSize": {
+        "width": 1728,
+        "height": 1085
+      },
+      "touchSupport": "unknown"
+    },
+    "relativePointFromMonitor": {
+      "x": 561,
+      "y": 308
+    }
+  },
+  "mcpServers": {
+    "uber_eats": {
+      "command": "python",
+      "args": ["server.py"],
+      "cwd": "/Users/a753/git_macbook/uber-eats-mcp-server",
+      "env": {}
+    }
+  }
+} 
