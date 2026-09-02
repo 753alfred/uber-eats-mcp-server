@@ -40,7 +40,7 @@ python server.py
     "uber_eats": {
       "command": "python",
       "args": ["server.py"],
-      "cwd": "/Users/a753/git_macbook/uber-eats-mcp-server",
+      "cwd": "/Users/a753/git_macmini/uber-eats-mcp-server",
       "env": {
         "ANTHROPIC_API_KEY": "your-api-key-here"
       }
