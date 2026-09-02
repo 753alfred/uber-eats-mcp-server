@@ -56,7 +56,7 @@ Claude Desktop의 설정 파일에 다음을 추가:
     "uber_eats": {
       "command": "python",
       "args": ["server.py"],
-      "cwd": "/Users/a753/git_macbook/uber-eats-mcp-server",
+      "cwd": "/Users/a753/git_macmini/uber-eats-mcp-server",
       "env": {
         "ANTHROPIC_API_KEY": "your-api-key-here"
       }
