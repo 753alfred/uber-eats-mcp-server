@@ -48,3 +48,6 @@ coverage.xml
 # Browser-use specific
 *.gif
 browser_screenshots/ 
+# Gradio cache
+.gradio/
+
